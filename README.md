@@ -1,6 +1,4 @@
-<img src="https://i.imgur.com/qf0SI7i.gif"/>
-
-!(image)[https://i.imgur.com/qf0SI7i.gif]
+!(image)[http://cdn.sci-news.com/images/enlarge4/image_5608_2e-Jupiter.jpg]
 
 - programming & science enthusiast
 - 🎮 Game Developer
