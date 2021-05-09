@@ -1,4 +1,4 @@
-![me](https://astro.org.sv/wp-content/uploads/2018/06/JupiterComplex_JunoMarriott_2324.jpg)
+![me](https://gfycat.com/fortunatefinehydatidtapeworm-spacegifs-jupiter-juno)
 
 - programming & science enthusiast
 - 🎮 Game Developer
