@@ -20,15 +20,8 @@
     <a href="https://developer.apple.com/xcode/">
     <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/xcode.svg" alt="XCode" width="50" height="50" style="vertical-align:top;margin:10px">
   </a>
-  </a>
-  
-  [![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCastagnola&layout=compact&theme=tokyonight&)](https://github.com/NicolasCastagnola/github-readme-stats)
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/NicolasCastagnola/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCastagnola&layout=compact&theme=tokyonight" />
 </a>
 
   </a>
