@@ -1,6 +1,5 @@
 ### 👋🏽 Nicolás Castagnola, Game Developer
 <hr>
-## I build with...
 <p>
   <a href="https://github.com/NicolasCastagnola/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCastagnola&layout=compact&theme=tokyonight" />
