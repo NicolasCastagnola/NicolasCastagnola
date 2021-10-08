@@ -21,7 +21,7 @@
     <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/xcode.svg" alt="XCode" width="50" height="50" style="vertical-align:top;margin:10px">
   </a>
 <a href="https://github.com/NicolasCastagnola/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCastagnola&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCastagnola&layout=compact&theme=tokyonight" />
 </a>
 
   </a>
