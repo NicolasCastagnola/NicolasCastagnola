@@ -9,22 +9,10 @@
   <a href="https://unity.com/">
     <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/unity3.svg" alt="Unity" style="vertical-align:top; margin:4px">
   </a>  
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-    <img src="https://github.com/gabeta/gabeta/blob/master/resources/js.svg" alt="C#" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://www.python.org/">
-    <img src="https://github.com/gabeta/gabeta/blob/master/resources/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/python2.svg" alt="Python" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://php.net">
-    <img src="https://github.com/gabeta/gabeta/blob/master/resources/laravel.png" alt="Php" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://vuejs.org/">
-    <img src="https://github.com/gabeta/gabeta/blob/master/resources/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://github.com/gabeta/gabeta/blob/master/resources/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.jetbrains.com/fr-fr/idea/">
-    <img src="https://github.com/gabeta/gabeta/blob/master/resources/jetbrains_intellij.svg" alt="jetbrains" style="vertical-align:top; margin:4px">
+  <a href="https://getbootstrap.com/">
+    <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/boot1.svg" alt="BootStrap" style="vertical-align:top; margin:4px">
   </a>
 </p>
