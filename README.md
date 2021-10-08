@@ -12,4 +12,5 @@
     <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/boot1.svg" alt="BootStrap" style="vertical-align:top; margin:4px">
   </a>
 </p>
+
 [![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCastagnola&layout=compact&theme=tokyonight)](https://github.com/NicolasCastagnola/github-readme-stats)
