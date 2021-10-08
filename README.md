@@ -10,7 +10,7 @@
     <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/unity3.svg" alt="Unity" style="vertical-align:top; margin:4px">
   </a>  
   <a href="https://www.python.org/">
-    <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/python2.svg" alt="Python" width="500" height="600" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/python2.svg" alt="Python" width="20" height="20" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://getbootstrap.com/">
     <img src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/boot1.svg" alt="BootStrap" style="vertical-align:top; margin:4px">
