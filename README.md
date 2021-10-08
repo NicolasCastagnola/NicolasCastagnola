@@ -19,7 +19,7 @@
     <a href="https://developer.apple.com/xcode/">
     <img align="right" src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/xcode.svg" alt="XCode" width="50" height="50" style="vertical-align:top;margin:10px">
   </a>
-  <hr>
+  <hr><hr>
 </p>
 
   <a href="https://github.com/NicolasCastagnola/github-readme-stats">
