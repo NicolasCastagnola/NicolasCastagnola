@@ -22,7 +22,7 @@
   </a>
   </a>
   
-  [![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCastagnola&layout=compact&theme=tokyonight)](https://github.com/NicolasCastagnola/github-readme-stats)
+  [![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCastagnola&layout=compact&theme=tokyonight&style="vertical-align:top;margin:10px")](https://github.com/NicolasCastagnola/github-readme-stats)
   
   </a>
 </p>
