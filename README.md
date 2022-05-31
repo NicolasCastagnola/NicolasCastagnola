@@ -24,4 +24,5 @@
 <img align="left" src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/xcode.svg" alt="XCode" width="50" height="50" style="vertical-align:top;margin:10px">
 </a>
  
+![Metrics](https://metrics.lecoq.io/NicolasCastagnola)
 
