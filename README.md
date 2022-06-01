@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="./github-metrics.svg">
+</p>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="80%" height="50%">
-
-<img src="./Resources/donut.gif">
-
+<p align="center">
+  <img src="./Resources/donut.gif">
+</p>
