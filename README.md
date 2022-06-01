@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./metrics.terminal.svg">
+  <img src="./github-metrics.svg">
 </p>
 
 <p align="center">
