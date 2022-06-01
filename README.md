@@ -1,3 +1,7 @@
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<p align="center">
+  <img src="./github-metrics.svg">
+</p>
 
-<p><img aling="right" src="https://github.com/NicolasCastagnola/NicolasCastagnola/blob/main/Resources/donut.gif" width="500" height="320"/></p>
+<p align="center">
+  <img src="./Resources/donut.gif">
+</p>
