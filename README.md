@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="./github-metrics.svg" width="100%">
-</p>
+![Metrics](/github-metrics.svg)
 
-<p align="center">
-  <img src="./Resources/donut.gif width="100%">
-</p>
+
+<img src="./Resources/donut.gif">
+
