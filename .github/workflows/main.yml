@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRIC_TOKEN }}
           # Options
           user: NicolasCastagnola
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Buenos_Aires
           #Calendar
